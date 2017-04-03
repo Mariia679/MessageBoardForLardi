@@ -58,8 +58,6 @@
 </nav>
 <!-- HEADER -->
 <!-- BODY -->
-<a href="/admin">admin</a>
-<a href="/login">registration</a>
 
 <div id="carousel-up" class="carousel slide" data-ride="carousel">
 	<div class="carousel-inner " role="listbox">
